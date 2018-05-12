@@ -1,0 +1,30 @@
+_repo: Anna-Sewardand-Classic-Lichfield_26383
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, Stapleton
+    alias: Walton, John Stapleton
+    birthdate: 1846
+    deathdate: 1922
+    gutenberg_agent_id: '31965'
+    url: http://www.gutenberg.org/2009/agents/31965
+description: ''
+gutenberg_issued: '2008-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century -- History and criticism'
+- !lcsh 'Seward, Anna, 1742-1809'
+- !lcc 'PR'
+- !lcsh 'Women poets -- Biography'
+- !lcc 'CT'
+title: Anna Seward, and Classic Lichfield
+url: http://www.gutenberg.org/ebooks/26383
